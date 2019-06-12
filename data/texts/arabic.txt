@@ -1,0 +1,1200 @@
+‎ (min), 3226, preposition
+ٱللَّه‎ (l-lah), 2699, proper noun
+فِي‎ (fī), 1701, preposition
+إِنّ‎ (ʾinn), 1682, accusative particle
+عَلَىٰ‎ (ʿalā), 1445, preposition
+ٱلَّذِي‎ (llaḏī), 1442, relative pronoun
+لَا‎ (lā), 1364, negative particle
+مَا‎ (mā), 1266, relative pronoun
+رَبّ‎ (rabb), 975, noun
+إِلَىٰ‎ (ʾilā), 742, preposition
+مَا‎ (mā), 704, negative particle
+مَن‎ (man), 606, relative pronoun
+إِن‎ (ʾin), 578, conditional particle
+أَن‎ (ʾan), 578, subordinating conjunction
+إِلَّا‎ (ʾillā), 558, restriction particle
+ذَٰلِك‎ (ḏālik), 520, demonstrative pronoun
+عَن‎ (ʿan), 465, preposition
+أَرْض‎ (ʾarḍ), 461, noun
+قَد‎ (qad), 406, particle of certainty
+إِذَا‎ (ʾiḏā), 405, time adverb
+قَوْم‎ (qawm), 383, noun
+ءاية#Arabic|آية|ءَايَة‎, 382, noun
+أَنّ‎ (ʾann), 362, accusative particle
+كُلّ‎ (kull), 358, noun
+لَم‎ (lam), 353, negative particle
+ثُمّ‎ (ṯumm), 338, coordinating conjunction
+رَسُول‎ (rasūl), 332, noun
+لَا‎ (lā), 327, prohibition particle
+يَوْم‎ (yawm), 325, noun
+عَذَاب‎ (ʿaḏāb), 322, noun
+هَٰذَا‎ (hāḏā), 317, demonstrative pronoun
+سَمَاء‎ (samāʾ), 310, noun
+نَفْس‎ (nafs), 295, noun
+شَيْء‎ (šayʾ), 283, noun
+أَو‎ (ʾaw), 280, coordinating conjunction
+كِتَٰب‎ (kitāb), 260, noun
+بَيْن‎ (bayn), 243, location adverb
+حَقّ‎ (ḥaqq), 242, noun
+نَّاس‎ (nnās), 241, noun
+إِذ‎ (ʾiḏ), 239, time adverb
+أُولَٰٓئِك‎, 204, demonstrative pronoun
+قَبْل‎ (qabl), 197, noun
+مُؤْمِن‎ (muʾmin), 195, noun
+لَو‎ (law), 184, conditional particle
+مَن‎ (man), 184, conditional particle
+سَبِيل‎ (sabīl), 176, noun
+أَمْر‎ (ʾamr), 166, noun
+عِند‎, 160, location adverb
+مَع‎ (maʿ), 159, location adverb
+بَعْض‎ (baʿḍ), 157, noun
+لَمَّا‎ (lammā), 156, time adverb
+أَيُّهَا‎ (ʾayyuhā), 153, noun
+خَيْر‎ (ḵayr), 148, noun
+إِلَٰه‎ (ʾilāh), 147, noun
+نَار‎ (nār), 145, noun
+غَيْر‎ (ḡayr), 144, noun
+أَم‎ (ʾam), 137, coordinating conjunction
+مُوسَىٰ‎ (mūsā), 136, proper noun
+دُون‎ (dūn), 135, noun
+آخِر‎ (ʾāḵir), 133, noun
+بَعْد‎ (baʿd), 133, noun
+قَلْب‎ (qalb), 132, noun
+عَبْد‎ (ʿabd), 131, noun
+أَهْل‎ (ʾahl), 127, noun
+لَعَلّ‎ (laʿall), 123, accusative particle
+بَل‎ (bal), 122, retraction particle
+يَد‎ (yad), 120, noun
+كفرون#Arabic|كافر|كَٰفِرُون‎, 119, noun
+إِن‎ (ʾin), 114, negative particle
+رَحْمَة‎ (raḥma), 114, noun
+رَحِيم‎ (raḥīm), 112, adjective
+أَجْر‎ (ʾajr), 105, noun
+ظَالِم‎ (ẓālim), 105, noun
+عِلْم‎ (ʿilm), 105, noun
+عَظِيم‎ (ʿaẓīm), 104, adjective
+لَن‎ (lan), 104, negative particle
+إِلَّا‎ (ʾillā), 102, exceptive particle
+عَلِيم‎ (ʿalīm), 101, adjective
+جَنَّة‎ (janna), 96, noun
+حَتَّىٰ‎ (ḥattā), 95, preposition
+هَل‎ (hal), 93, interogative particle
+دِين‎ (dīn), 92, noun
+قَوْل‎ (qawl), 92, noun
+مَا‎ (mā), 92, interogative particle
+ذُو‎ (ḏū), 90, noun
+مَلَك‎ (malak), 88, noun
+مَثَل‎ (maṯal), 87, noun
+مَال‎ (māl), 86, noun
+وَلِىّ‎, 86, noun
+هُدًى‎ (hudan), 85, noun
+حَكِيم‎ (ḥakīm), 84, adjective
+فَضْل‎ (faḍl), 84, noun
+صَلَوٰة‎ (ṣalawā), 83, noun
+لَيْل‎ (layl), 82, noun
+بُنَىّ‎ (bunāā), 80, noun
+شَيْطَٰن‎ (šayṭān), 80, proper noun
+كَيْف‎ (kayf), 80, interogative particle
+يَوْم‎ (yawm), 80, time adverb
+مَا‎ (mā), 79, subordinating conjunction
+أصحب#Arabic|أصحاب|أَصْحَٰب‎, 78, noun
+أَكْثَر‎ (ʾakṯar), 78, noun
+جَهَنَّم‎ (jahannam), 77, proper noun
+حَيَوٰة‎ (ḥayawā), 76, noun
+ذِكْر‎ (ḏikr), 76, noun
+زَوْج‎ (zawj), 76, noun
+أَخ‎ (ʾaḵ), 75, noun
+مِثْل‎ (miṯl), 75, noun
+نَّبِىّ‎, 75, noun
+أَحَد‎ (ʾaḥad), 74, noun
+خَٰلِد‎ (ḵālid), 74, noun
+دُّنْيَا‎ (ddunyā), 74, adjective
+فِرْعَوْن‎ (firʿawn), 74, proper noun
+عَٰلَمِين‎ (ʿālamīn), 73, noun
+أَلِيم‎ (ʾalīm), 72, adjective
+مُبِين‎ (mubīn), 72, noun
+إِنسَٰن‎, 71, noun
+عَمَل‎ (ʿamal), 71, noun
+وَجْه‎ (wajh), 71, noun
+قِيَٰمَة‎ (qiyāma), 70, noun
+يَوْمَئِذ‎ (yawmaʾiḏ), 70, time adverb
+إِبْرَاهِيم‎ (ʾibrāhīm), 69, proper noun
+قُرْءَان‎ (qurʾān), 68, proper noun
+بَعْد‎ (baʿd), 66, time adverb
+بَيْت‎ (bayt), 65, noun
+لَٰكِن‎ (lākin), 65, amendment particle
+يَمِين‎ (yamīn), 65, noun
+آبَاء‎ (ʾābāʾ), 64, noun
+أُمَّة‎ (ʾumma), 64, noun
+ٱبْن‎ (bn), 63, noun
+عَزِيز‎ (ʿazīz), 63, noun
+مَآء‎ (maʾāʾ), 63, noun
+صَّٰلِحَٰت‎ (ṣṣāliḥāt), 62, noun
+عَلِيم‎ (ʿalīm), 62, noun
+غَفُور‎ (ḡafūr), 62, noun
+أَوَّل‎ (ʾawwal), 61, noun
+صَٰلِح‎ (ṣāliḥ), 60, noun
+صَادِق‎ (ṣādiq), 59, noun
+نِسَآء‎ (nisaʾāʾ), 59, noun
+نَذِير‎ (naḏīr), 58, noun
+عَيْن‎ (ʿayn), 57, noun
+قَرْيَة‎ (qarya), 57, noun
+لَٰكِنّ‎ (lākinn), 57, accusative particle
+نَهَار‎ (nahār), 56, noun
+وَلَد‎ (walad), 56, noun
+بَيِّنَة‎ (bayyina), 55, noun
+رِزْق‎ (rizq), 55, noun
+نَهَر‎ (nahar), 54, noun
+جَمِيع‎ (jamīʿ), 53, noun
+أَجَل‎ (ʾajal), 52, noun
+خَلْق‎ (ḵalq), 52, noun
+جَنَّة‎ (janna), 51, proper noun
+سُوٓء‎, 50, noun
+مَوْت‎ (mawt), 50, noun
+نِعْمَة‎ (niʿma), 50, noun
+عَدُوّ‎ (ʿaduww), 49, noun
+غَيْب‎ (ḡayb), 49, noun
+مُتَّقِين‎ (muttaqīn), 49, noun
+وَعْد‎ (waʿd), 49, noun
+بَصَر‎ (baṣar), 48, noun
+تَحْت‎ (taḥt), 48, noun
+دَار‎ (dār), 48, noun
+مُلْك‎ (mulk), 48, noun
+أَن‎ (ʾan), 47, particle of interpretation
+حَتَّىٰ‎ (ḥattā), 47, inceptive particle
+سَاعَة‎ (sāʿa), 47, noun
+مُبِين‎ (mubīn), 47, adjective
+أَبٌ‎ (ʾabun), 46, noun
+أُولِى‎, 45, noun
+إِيمَٰن‎ (ʾīmān), 45, noun
+رَّحْمَٰن‎ (rraḥmān), 45, noun
+صِرَٰط‎ (ṣirāṭ), 45, noun
+قَبْل‎ (qabl), 45, time adverb
+آخَر‎ (ʾāḵar), 44, noun
+أَمَّا‎ (ʾammā), 44, explanation particle
+صَدْر‎ (ṣadr), 44, noun
+قَدِير‎ (qadīr), 44, noun
+مُجْرِم‎ (mujrim), 44, noun
+مُشْرِك‎ (mušrik), 44, noun
+إِسْرَائِيل‎ (ʾisrāʾīl), 43, proper noun
+حَمْد‎ (ḥamd), 43, noun
+قَلِيل‎ (qalīl), 43, noun
+نُوح‎ (nūḥ), 43, proper noun
+نُور‎ (nūr), 43, noun
+جَزَآء‎ (jazaʾāʾ), 42, noun
+سَوْف‎ (sawf), 42, Future particle
+كَثِير‎ (kaṯīr), 42, noun
+بَحْر‎ (baḥr), 41, noun
+دُّنْيَا‎ (ddunyā), 41, noun
+سُبْحَٰن‎ (subḥān), 41, noun
+سَلَٰم‎ (salām), 41, noun
+شَرِيك‎ (šarīk), 40, noun
+شَهِيد‎ (šahīd), 40, noun
+لَوْلَآ‎ (lawlaʾā), 40, exhortation particle
+وَيْل‎ (wayl), 40, noun
+إِذْن‎ (ʾiḏn), 39, noun
+ٱسْم‎ (sm), 39, noun
+أَلَآ‎ (ʾalaʾā), 39, inceptive particle
+جَبَل‎ (jabal), 39, noun
+سَمِيع‎ (samīʿ), 39, noun
+حِسَاب‎ (ḥisāb), 38, noun
+ضَلَٰل‎ (ḍalāl), 38, noun
+عَزِيز‎ (ʿazīz), 38, adjective
+مُحْسِن‎ (muḥsin), 38, noun
+بَشَر‎ (bašar), 37, noun
+ذَنب‎, 37, noun
+سُلْطَٰن‎ (sulṭān), 37, noun
+عِند‎, 37, noun
+كُفْر‎ (kufr), 37, noun
+سَيِّـَٔات‎, 36, noun
+شَدِيد‎ (šadīd), 36, adjective
+إِثْم‎ (ʾiṯm), 35, noun
+أَحْسَن‎ (ʾaḥsan), 35, noun
+أَىّ‎ (ʾāā), 35, interogative particle
+لَوْلَآ‎ (lawlaʾā), 35, conditional particle
+مَتَٰع‎ (matāʿ), 35, noun
+أُمّ‎ (ʾumm), 34, noun
+فِتْنَة‎ (fitna), 34, noun
+مُرْسَل‎ (mursal), 34, noun
+مَرْيَم‎ (maryam), 34, proper noun
+مَّعْرُوف‎ (mmaʿrūf), 34, noun
+مَن‎ (man), 34, interogative particle
+مَّيِّت‎ (mmayyit), 34, noun
+نَصِير‎ (naṣīr), 34, noun
+ءَالَآء‎ (ʾālaʾāʾ), 34, noun
+أَعْلَم‎ (ʾaʿlam), 33, noun
+شَمْس‎ (šams), 33, noun
+فَرِيق‎ (farīq), 33, noun
+كَذِب‎ (kaḏib), 33, noun
+كَلَّا‎ (kallā), 33, aversion particle
+نَّعَم‎ (nnaʿam), 33, noun
+خَٰسِرِين‎ (ḵāsirīn), 32, noun
+زَكَوٰة‎ (zakawā), 32, noun
+عَٰقِبَة‎ (ʿāqiba), 32, noun
+كَبِير‎ (kabīr), 32, adjective
+بَصِير‎ (baṣīr), 31, noun
+حِين‎ (ḥīn), 31, noun
+كَٰذِب‎ (kāḏib), 31, noun
+حُكْم‎ (ḥukm), 30, noun
+خَيْر‎ (ḵayr), 30, adjective
+شَرّ‎ (šarr), 30, noun
+قُوَّة‎ (quwwa), 30, noun
+مَلَأ‎ (malaʾ), 30, noun
+جُند‎, 29, noun
+رَجُل‎ (rajul), 29, noun
+رِيح‎ (rīḥ), 29, noun
+عَرْش‎ (ʿarš), 29, noun
+عَهْد‎ (ʿahd), 29, noun
+غَفُور‎ (ḡafūr), 29, adjective
+كَأَنّ‎ (kaʾann), 29, accusative particle
+نَبَأ‎ (nabaʾ), 29, noun
+أَبَدًا‎ (ʾabadan), 28, time adverb
+أَشَدّ‎ (ʾašadd), 28, noun
+حَدِيث‎ (ḥadīṯ), 28, noun
+ذُرِّيَّة‎ (ḏurriyya), 28, noun
+رِجَال‎ (rijāl), 28, noun
+سِحْر‎ (siḥr), 28, noun
+كَرِيم‎ (karīm), 28, adjective
+كَلِمَة‎ (kalima), 28, noun
+مَسْجِد‎ (masjid), 28, noun
+مَصِير‎ (maṣīr), 28, noun
+مَّغْفِرَة‎ (mmaḡfira), 28, noun
+أَنَّىٰ‎ (ʾannā), 27, interogative particle
+بَاب‎ (bāb), 27, noun
+غَٰفِل‎ (ḡāfil), 27, noun
+قَلِيل‎ (qalīl), 27, adjective
+قَمَر‎ (qamar), 27, noun
+كَافِر‎ (kāfir), 27, noun
+لُوط‎ (lūṭ), 27, proper noun
+مُنَٰفِقُون‎ (munāfiqūn), 27, noun
+يُوسُف‎ (yūsuf), 27, proper noun
+آخَر‎ (ʾāḵar), 26, adjective
+أَجْمَعِين‎ (ʾajmaʿīn), 26, noun
+ٱمْرَأَت‎ (mraʾat), 26, noun
+بَٰطِل‎ (bāṭil), 26, noun
+ثَمُود‎ (ṯamūd), 26, proper noun
+جَحِيم‎ (jaḥīm), 26, noun
+خَوْف‎ (ḵawf), 26, noun
+سَوَآء‎ (sawaʾāʾ), 26, noun
+كَيْد‎ (kayd), 26, noun
+مَاذَا‎ (māḏā), 26, interogative particle
+ءَال‎ (ʾāl), 26, noun
+آدَم‎ (ʾādam), 25, proper noun
+بَأْس‎ (baʾs), 25, noun
+جُنَاح‎ (junāḥ), 25, noun
+حَسَنَة‎ (ḥasana), 25, noun
+عِيسَى‎ (ʿīsā), 25, proper noun
+فَوْق‎ (fawq), 25, noun
+لِسَان‎ (lisān), 25, noun
+مَّكَان‎ (mmakān), 25, noun
+مِّيثَٰق‎ (mmīṯāq), 25, noun
+أُنثَىٰ‎, 24, noun
+أَىّ‎ (ʾāā), 24, noun
+إِيَّا‎ (ʾiyyā), 24, personal pronoun
+طَعَام‎ (ṭaʿām), 24, noun
+ظَالِم‎ (ẓālim), 24, adjective
+عَاد‎ (ʿād), 24, proper noun
+فَاسِق‎ (fāsiq), 24, noun
+لِقَآء‎ (liqaʾāʾ), 24, noun
+مُسْلِم‎ (muslim), 24, noun
+وَٰحِد‎ (wāḥid), 24, adjective
+وَكِيل‎ (wakīl), 24, noun
+بَيْن‎ (bayn), 23, noun
+حَيّ‎ (ḥayy), 23, noun
+خَبِير‎ (ḵabīr), 23, adjective
+ذِكْرَىٰ‎ (ḏikrā), 23, noun
+شَهَٰدَة‎ (šahāda), 23, noun
+طَآئِفَة‎ (ṭaʾāʾifa), 23, noun
+فُلْك‎ (fulk), 23, noun
+قَرْن‎ (qarn), 23, noun
+مَا‎ (mā), 23, conditional particle
+مُسْتَقِيم‎ (mustaqīm), 23, noun
+ٱلَّذِى‎, 22, conditional particle
+إِمَّا‎ (ʾimmā), 22, explanation particle
+بَلَىٰ‎ (balā), 22, answer particle
+جِنّ‎ (jinn), 22, noun
+خَبِير‎ (ḵabīr), 22, noun
+دُعَآء‎ (duʿaʾāʾ), 22, noun
+سَٰحِر‎ (sāḥir), 22, noun
+سَبْع‎ (sabʿ), 22, noun
+سَمْع‎ (samʿ), 22, noun
+ظُلُمَٰت‎ (ẓulumāt), 22, noun
+مَأْوَىٰ‎ (maʾwā), 22, noun
+مِسْكِين‎ (miskīn), 22, noun
+نَصْر‎ (naṣr), 22, noun
+وَٰحِدَة‎ (wāḥida), 22, noun
+آخِر‎ (ʾāḵir), 21, adjective
+بَرّ‎ (barr), 21, noun
+رُوح‎ (rūḥ), 21, noun
+سَيِّئَة‎ (sayyiʾa), 21, noun
+شَهْر‎ (šahr), 21, noun
+طَيِّبَٰت‎ (ṭayyibāt), 21, noun
+ظَنّ‎ (ẓann), 21, noun
+كَثِير‎ (kaṯīr), 21, adjective
+مُفْسِد‎ (mufsid), 21, noun
+مُّكَذِّبِين‎ (mmukaḏḏibīn), 21, noun
+نَصِيب‎ (naṣīb), 21, noun
+يَتِيم‎ (yatīm), 21, noun
+بَصِير‎ (baṣīr), 20, adjective
+بَعِيد‎ (baʿīd), 20, adjective
+حِزْب‎ (ḥizb), 20, noun
+حَسَن‎ (ḥasan), 20, adjective
+حِكْمَة‎ (ḥikma), 20, noun
+شَدِيد‎ (šadīd), 20, noun
+ظُلْم‎ (ẓulm), 20, noun
+عِقَاب‎ (ʿiqāb), 20, noun
+غَنِىّ‎, 20, noun
+كَم‎ (kam), 20, interogative particle
+لَدَي‎ (laday), 20, location adverb
+هَٰرُون‎ (hārūn), 20, proper noun
+أَوَّل‎ (ʾawwal), 19, adjective
+زِينَة‎ (zīna), 19, noun
+شَاهِد‎ (šāhid), 19, noun
+شَجَرَة‎ (šajara), 19, noun
+صَابِر‎ (ṣābir), 19, noun
+ضُرّ‎ (ḍurr), 19, noun
+طَيْر‎ (ṭayr), 19, noun
+فَوْز‎ (fawz), 19, noun
+مَرَّة‎ (marra), 19, noun
+مُّعْرِضُون‎ (mmuʿriḍūn), 19, noun
+مَكْر‎ (makr), 19, noun
+إِذًا‎ (ʾiḏan), 18, surprise particle
+أُذُنٌ‎ (ʾuḏunun), 18, noun
+أَعْمَىٰ‎ (ʾaʿmā), 18, noun
+إِنس‎, 18, noun
+تَوْرَىٰة‎ (tawrā), 18, proper noun
+دَآبَّة‎ (daʾābba), 18, noun
+دُبُر‎ (dubur), 18, noun
+دَرَجَة‎ (daraja), 18, noun
+ذَا‎ (ḏā), 18, noun
+ذَكَر‎ (ḏakar), 18, noun
+رَأْس‎ (raʾs), 18, noun
+رَيْب‎ (rayb), 18, noun
+سَاجِد‎ (sājid), 18, noun
+عَٰلِم‎ (ʿālim), 18, noun
+مُنكَر‎, 18, noun
+مَوْلَىٰ‎ (mawlā), 18, noun
+مُؤْمِنَٰت‎ (muʾmināt), 18, noun
+إِسْحَاق‎ (ʾisḥāq), 17, proper noun
+أَقْرَب‎ (ʾaqrab), 17, noun
+أَهْوَآء‎ (ʾahwaʾāʾ), 17, noun
+بَطْن‎ (baṭn), 17, noun
+بَنَات‎ (banāt), 17, noun
+تَأْوِيل‎ (taʾwīl), 17, noun
+تُرَاب‎ (turāb), 17, noun
+تَقْوَى‎ (taqwā), 17, noun
+حَرَام‎ (ḥarām), 17, adjective
+خَلْف‎ (ḵalf), 17, noun
+سُلَيْمَٰن‎ (sulaymān), 17, proper noun
+فَٰحِشَة‎ (fāḥiša), 17, noun
+قَآئِم‎ (qaʾāʾim), 17, noun
+لَّدُن‎ (lladun), 17, noun
+مُّهْتَدُون‎ (mmuhtadūn), 17, noun
+نَعِيم‎ (naʿīm), 17, noun
+أَظْلَم‎ (ʾaẓlam), 16, noun
+أَعْلَم‎ (ʾaʿlam), 16, adjective
+أَلْبَٰب‎ (ʾalbāb), 16, noun
+بَيِّنَة‎ (bayyina), 16, adjective
+ثَمَرَٰت‎ (ṯamarāt), 16, noun
+حَرَام‎ (ḥarām), 16, noun
+حَمِيد‎ (ḥamīd), 16, adjective
+حَيْث‎ (ḥayṯ), 16, noun
+دَاوُد‎ (dāwud), 16, proper noun
+سَعِير‎ (saʿīr), 16, noun
+سُنَّة‎ (sunna), 16, noun
+شَهِيد‎ (šahīd), 16, adjective
+عَظِيم‎ (ʿaẓīm), 16, noun
+فُؤَاد‎ (fuʾād), 16, noun
+فَوْق‎ (fawq), 16, location adverb
+قُرْبَىٰ‎ (qurbā), 16, noun
+لَو‎ (law), 16, subordinating conjunction
+مَرْجِع‎ (marjiʿ), 16, noun
+مُّسَمًّى‎ (mmusamman), 16, noun
+مِيزَان‎ (mīzān), 16, noun
+يَعْقُوب‎ (yaʿqūb), 16, proper noun
+بُشْرَىٰ‎ (bušrā), 15, noun
+بَلَٰغ‎ (balāḡ), 15, noun
+تَنزِيل‎, 15, noun
+رِجْل‎ (rijl), 15, noun
+شَكّ‎ (šakk), 15, noun
+صَبْر‎ (ṣabr), 15, noun
+ظَهْر‎ (ẓahr), 15, noun
+قَرِيب‎ (qarīb), 15, adjective
+قِسْط‎ (qisṭ), 15, noun
+كُلَّمَا‎ (kullamā), 15, time adverb
+مُصَدِّق‎ (muṣaddiq), 15, noun
+مِلَّة‎ (milla), 15, noun
+مُنذِر‎, 15, noun
+نَصْرَانِيّ‎ (naṣrāniyy), 15, proper noun
+ٱبْتِغَآء‎ (btiḡaʾāʾ), 14, noun
+أَثَر‎ (ʾaṯar), 14, noun
+أُخْت‎ (ʾuḵt), 14, noun
+إِذَا‎ (ʾiḏā), 14, surprise particle
+أَلْف‎ (ʾalf), 14, noun
+أَمِين‎ (ʾamīn), 14, adjective
+بَلَد‎ (balad), 14, noun
+حُدُود‎ (ḥudūd), 14, noun
+حَرَج‎ (ḥaraj), 14, noun
+حَمِيم‎ (ḥamīm), 14, noun
+خَاشِع‎ (ḵāšiʿ), 14, noun
+شَاكِر‎ (šākir), 14, noun
+صِدْق‎ (ṣidq), 14, noun
+ظِلّ‎ (ẓill), 14, noun
+عَدْل‎ (ʿadl), 14, noun
+غَضَب‎ (ḡaḍab), 14, noun
+قَادِر‎ (qādir), 14, noun
+كَلِمَٰت‎ (kalimāt), 14, noun
+لَعْنَة‎ (laʿna), 14, noun
+لَيْت‎ (layt), 14, accusative particle
+مُّسْتَقِيم‎ (mmustaqīm), 14, adjective
+مُسْلِم‎ (muslim), 14, proper noun
+مَقَام‎ (maqām), 14, noun
+وَالِد‎ (wālid), 14, noun
+ٱثْنَيْن‎ (ṯnayn), 13, noun
+إِذًا‎ (ʾiḏan), 13, answer particle
+أَكْبَر‎ (ʾakbar), 13, noun
+بَغْتَة‎ (baḡta), 13, noun
+ثَوَاب‎ (ṯawāb), 13, noun
+جَمْع‎ (jamʿ), 13, noun
+حَٰفِظ‎ (ḥāfiẓ), 13, noun
+حَرْث‎ (ḥarṯ), 13, noun
+حُسْن‎ (ḥusn), 13, noun
+حَكِيم‎ (ḥakīm), 13, noun
+حَوْل‎ (ḥawl), 13, noun
+حَيْث‎ (ḥayṯ), 13, location adverb
+رِضْوَٰن‎ (riḍwān), 13, noun
+شَفَٰعَة‎ (šafāʿa), 13, noun
+صَيْحَة‎ (ṣayḥa), 13, noun
+غَالِب‎ (ḡālib), 13, noun
+غُلَٰم‎ (ḡulām), 13, noun
+فَاسِق‎ (fāsiq), 13, adjective
+قِتَال‎ (qitāl), 13, noun
+مَا‎ (mā), 13, supplemental particle
+مَثْوًى‎ (maṯwan), 13, noun
+مَّرَض‎ (mmaraḍ), 13, noun
+مُفْلِحُون‎ (mufliḥūn), 13, noun
+مَلِك‎ (malik), 13, noun
+نَّجْم‎ (nnajm), 13, noun
+إِحْسَٰن‎ (ʾiḥsān), 12, noun
+أَرْحَام‎ (ʾarḥām), 12, noun
+إِسْمَاعِيل‎ (ʾismāʿīl), 12, proper noun
+أَصَمّ‎ (ʾaṣamm), 12, noun
+أَفْوَٰه‎ (ʾafwāh), 12, noun
+إِمَام‎ (ʾimām), 12, noun
+إِنجِيل‎, 12, proper noun
+أَيْن‎ (ʾayn), 12, interogative particle
+ثَلَٰثَة‎ (ṯalāṯa), 12, noun
+حَنِيف‎ (ḥanīf), 12, noun
+رَّحْمَٰن‎ (rraḥmān), 12, adjective
+طِين‎ (ṭīn), 12, noun
+عَٰمِل‎ (ʿāmil), 12, noun
+فَتْح‎ (fatḥ), 12, noun
+لَحْم‎ (laḥm), 12, noun
+مُسْرِف‎ (musrif), 12, noun
+مَسْكَن‎ (maskan), 12, noun
+مُعْجِز‎ (muʿjiz), 12, noun
+مَّوْعِد‎ (mmawʿid), 12, noun
+نُّطْفَة‎ (nnuṭfa), 12, noun
+وَرَآء‎ (waraʾāʾ), 12, location adverb
+وَرَآء‎ (waraʾāʾ), 12, noun
+وِزْر‎ (wizr), 12, noun
+إِبْلِيس‎ (ʾiblīs), 11, proper noun
+إِحْدَى‎ (ʾiḥdā), 11, noun
+أَكْبَر‎ (ʾakbar), 11, adjective
+أَمَّا‎ (ʾammā), 11, conditional particle
+بَرِىٓء‎, 11, noun
+بَغْي‎ (baḡy), 11, noun
+تَوَّاب‎ (tawwāb), 11, noun
+ثَمَن‎ (ṯaman), 11, noun
+حَسْب‎ (ḥasb), 11, noun
+حَلِيم‎ (ḥalīm), 11, adjective
+خَٰلِق‎ (ḵāliq), 11, noun
+خِزْى‎, 11, noun
+سِرّ‎ (sirr), 11, noun
+سِنِين‎ (sinīn), 11, noun
+شَرَاب‎ (šarāb), 11, noun
+شُعَيْب‎ (šuʿayb), 11, proper noun
+شِيعَة‎ (šīʿa), 11, noun
+ضَآلّ‎ (ḍaʾāll), 11, noun
+عَدْن‎ (ʿadn), 11, proper noun
+عِدَّة‎ (ʿidda), 11, noun
+عِزَّة‎ (ʿizza), 11, noun
+عِنَب‎ (ʿinab), 11, noun
+فَٰكِهَة‎ (fākiha), 11, noun
+فَسَاد‎ (fasād), 11, noun
+قَدَر‎ (qadar), 11, noun
+قَرِيب‎ (qarīb), 11, noun
+كَثِيرَة‎ (kaṯīra), 11, adjective
+مَجْنُون‎ (majnūn), 11, noun
+مُخْلِص‎ (muḵliṣ), 11, noun
+مَسِيح‎ (masīḥ), 11, proper noun
+مَشْرِق‎ (mašriq), 11, noun
+نَاصِر‎ (nāṣir), 11, noun
+نَجْوَىٰٓ‎, 11, noun
+نَخْل‎ (naḵl), 11, noun
+نَفْع‎ (nafʿ), 11, noun
+هُزُو‎ (huzū), 11, noun
+هَوَآء‎ (hawaʾāʾ), 11, noun
+أَدْنَىٰ‎ (ʾadnā), 10, noun
+أَعْرَاب‎ (ʾaʿrāb), 10, noun
+جَاهِل‎ (jāhil), 10, noun
+جِنَّة‎ (jinna), 10, noun
+حِجَارَة‎ (ḥijāra), 10, noun
+حُسْنَىٰ‎ (ḥusnā), 10, noun
+خَيْرَٰت‎ (ḵayrāt), 10, noun
+دَم‎ (dam), 10, noun
+رِجْس‎ (rijs), 10, noun
+رَوَٰسِى‎, 10, noun
+رَءُوف‎ (raʾūf), 10, noun
+زَرْع‎ (zarʿ), 10, noun
+سَعْي‎ (saʿy), 10, noun
+سُورَة‎ (sūra), 10, noun
+صَاحِب‎ (ṣāḥib), 10, noun
+صُّور‎ (ṣṣūr), 10, noun
+ضَرّ‎ (ḍarr), 10, noun
+طُور‎ (ṭūr), 10, noun
+عَابِد‎ (ʿābid), 10, noun
+عِجْل‎ (ʿijl), 10, noun
+عَرَبِيّ‎ (ʿarabiyy), 10, adjective
+عَصَا‎ (ʿaṣā), 10, noun
+فَقِير‎ (faqīr), 10, noun
+فِئَة‎ (fiʾa), 10, noun
+قَتْل‎ (qatl), 10, noun
+كَٰفِرُون‎ (kāfirūn), 10, adjective
+كَيْل‎ (kayl), 10, noun
+لِبَاس‎ (libās), 10, noun
+لَهْو‎ (lahw), 10, noun
+مِائَة‎, 10, noun
+مُّحْضَر‎ (mmuḥḍar), 10, noun
+مُّخْتَلِف‎ (mmuḵtalif), 10, noun
+مَدْيَن‎ (madyan), 10, proper noun
+مَدِينَة‎ (madīna), 10, noun
+مَّرِيض‎ (mmarīḍ), 10, noun
+مُسْتَقَرّ‎ (mustaqarr), 10, noun
+مُّصِيبَة‎ (mmuṣība), 10, noun
+مَغْرِب‎ (maḡrib), 10, noun
+وَٰلِدَي‎ (wāliday), 10, noun
+يَسِير‎ (yasīr), 10, adjective
+ءَامِنِين‎ (ʾāminīn), 10, noun
+آتِي‎ (ʾātī), 9, noun
+أَذًى‎ (ʾaḏan), 9, noun
+أَرْبَعَة‎ (ʾarbaʿa), 9, noun
+أَسَٰطِير‎ (ʾasāṭīr), 9, noun
+أَضَلّ‎ (ʾaḍall), 9, noun
+إِفْك‎ (ʾifk), 9, noun
+أَوْلَىٰ‎ (ʾawlā), 9, noun
+تِجَٰرَة‎ (tijāra), 9, noun
+تَذْكِرَة‎ (taḏkira), 9, noun
+جُلُود‎ (julūd), 9, noun
+حُبّ‎ (ḥubb), 9, noun
+حَجّ‎ (ḥajj), 9, noun
+خَبِيث‎ (ḵabīṯ), 9, noun
+خَلِيفَة‎ (ḵalīfa), 9, noun
+دُون‎ (dūn), 9, location adverb
+رِجْز‎ (rijz), 9, noun
+رَقَبَة‎ (raqaba), 9, noun
+سَبَب‎ (sabab), 9, noun
+سَحَاب‎ (saḥāb), 9, noun
+سَوْء‎ (sawʾ), 9, noun
+شَفِيع‎ (šafīʿ), 9, noun
+شَكُور‎ (šakūr), 9, adjective
+صَٰلِح‎ (ṣāliḥ), 9, proper noun
+صِيَام‎ (ṣiyām), 9, noun
+ضَرَّآء‎ (ḍarraʾāʾ), 9, noun
+ضَلَٰلَة‎ (ḍalāla), 9, noun
+طُغْيَٰن‎ (ṭuḡyān), 9, noun
+طَيِّبَة‎ (ṭayyiba), 9, adjective
+عَام‎ (ʿām), 9, noun
+عِبَادَت‎ (ʿibādat), 9, noun
+عُنُق‎ (ʿunuq), 9, noun
+عِوَج‎ (ʿiwaj), 9, noun
+غُرُور‎ (ḡurūr), 9, noun
+غِلّ‎ (ḡill), 9, noun
+فَاعِل‎ (fāʿil), 9, noun
+قَرَار‎ (qarār), 9, noun
+قَوِىّ‎, 9, noun
+لَغْو‎ (laḡw), 9, noun
+لَوْن‎ (lawn), 9, noun
+مُبَشِّر‎ (mubaššir), 9, noun
+مَّبْعُوثُون‎ (mmabʿūṯūn), 9, noun
+مَتَىٰ‎ (matā), 9, interogative particle
+مُحِيط‎ (muḥīṭ), 9, noun
+مَّعْلُوم‎ (mmaʿlūm), 9, noun
+مَّوْعِظَة‎ (mmawʿiẓa), 9, noun
+مَـَٔاب‎, 9, noun
+نَبَات‎ (nabāt), 9, noun
+وَٰحِدَة‎ (wāḥida), 9, adjective
+وَٰسِع‎ (wāsiʿ), 9, noun
+يَهُودِيّ‎ (yahūdiyy), 9, proper noun
+أَشُدّ‎ (ʾašudd), 8, noun
+بِرّ‎ (birr), 8, noun
+بُرْهَٰن‎ (burhān), 8, noun
+ثِيَاب‎ (ṯiyāb), 8, noun
+جَانِب‎ (jānib), 8, noun
+جَدِيد‎ (jadīd), 8, adjective
+جَنب‎, 8, noun
+خَزَآئِن‎ (ḵazaʾāʾin), 8, noun
+خَشْيَة‎ (ḵašya), 8, noun
+خَطِيٓـَٔة‎, 8, noun
+خِلَٰل‎ (ḵilāl), 8, noun
+ذَهَب‎ (ḏahab), 8, noun
+رَاكِع‎ (rākiʿ), 8, noun
+سَرِيع‎ (sarīʿ), 8, noun
+سَمِيع‎ (samīʿ), 8, adjective
+شِّمَال‎ (ššimāl), 8, noun
+شَيْطَٰن‎ (šayṭān), 8, noun
+صَاعِقَة‎ (ṣāʿiqa), 8, noun
+صُحُف‎ (ṣuḥuf), 8, noun
+صَدَقَٰت‎ (ṣadaqāt), 8, noun
+صَوْت‎ (ṣawt), 8, noun
+طَّٰغُوت‎ (ṭṭāḡūt), 8, noun
+طَيِّب‎ (ṭayyib), 8, adjective
+طَيِّب‎ (ṭayyib), 8, noun
+ظَٰهِر‎ (ẓāhir), 8, noun
+عُدْوَٰن‎ (ʿudwān), 8, noun
+عَشِىّ‎, 8, noun
+عَقِب‎ (ʿaqib), 8, noun
+عَلِيّ‎ (ʿaliyy), 8, noun
+غَلِيظ‎ (ḡalīẓ), 8, adjective
+فَرْج‎ (farj), 8, noun
+فَصْل‎ (faṣl), 8, noun
+قَانِت‎ (qānit), 8, noun
+قَدَم‎ (qadam), 8, noun
+قَرِين‎ (qarīn), 8, noun
+كَبِير‎ (kabīr), 8, noun
+لَٰكِن‎ (lākin), 8, accusative particle
+لَعِب‎ (laʿib), 8, noun
+مُتَّكِـِٔين‎, 8, noun
+مِثْقَال‎ (miṯqāl), 8, noun
+مُجْرِم‎ (mujrim), 8, adjective
+مُحْصَنَٰت‎ (muḥṣanāt), 8, noun
+مُخْلَص‎ (muḵlaṣ), 8, adjective
+مُدْبِر‎ (mudbir), 8, noun
+مُشْفِقُون‎ (mušfiqūn), 8, noun
+مُّقِيم‎ (mmuqīm), 8, noun
+مَنَٰفِع‎ (manāfiʿ), 8, noun
+مَّوَدَّة‎ (mmawadda), 8, noun
+مِيقَٰت‎ (mīqāt), 8, noun
+نُزُل‎ (nuzul), 8, noun
+هُنَالِك‎ (hunālik), 8, time adverb
+وَصِيَّة‎ (waṣiyya), 8, noun
+يَمّ‎ (yamm), 8, noun
+ـَٰٔن‎, 8, time adverb
+أَبْقَىٰٓ‎, 7, noun
+أَبَوَان‎ (ʾabawān), 7, noun
+ٱثْنَتَيْن‎ (ṯnatayn), 7, noun
+أَثِيم‎ (ʾaṯīm), 7, adjective
+ٱخْتِلَٰف‎ (ḵtilāf), 7, noun
+إِخْوَةٌ‎ (ʾiḵwatun), 7, noun
+إِصْلَٰح‎ (ʾiṣlāḥ), 7, noun
+أُكُل‎ (ʾukul), 7, noun
+أَهْدَىٰ‎ (ʾahdā), 7, noun
+بَشِير‎ (bašīr), 7, noun
+بَصِيرَة‎ (baṣīra), 7, noun
+بُعْد‎ (buʿd), 7, noun
+بُنْيَٰن‎ (bunyān), 7, noun
+بَيْع‎ (bayʿ), 7, noun
+تَبْدِيل‎ (tabdīl), 7, noun
+تَوْبَة‎ (tawba), 7, noun
+ثَلَٰث‎ (ṯalāṯ), 7, noun
+جَآنّ‎ (jaʾānn), 7, noun
+جَمِيل‎ (jamīl), 7, adjective
+جَنَاح‎ (janāḥ), 7, noun
+جَهْر‎ (jahr), 7, noun
+حَبّ‎ (ḥabb), 7, noun
+حَبْل‎ (ḥabl), 7, noun
+حِجَاب‎ (ḥijāb), 7, noun
+حُجَّة‎ (ḥujja), 7, noun
+حَسْرَة‎ (ḥasra), 7, noun
+حُسْنَىٰ‎ (ḥusnā), 7, adjective
+حَظّ‎ (ḥaẓẓ), 7, noun
+حَفِيظ‎ (ḥafīẓ), 7, noun
+حَمْل‎ (ḥaml), 7, noun
+ذِلَّة‎ (ḏilla), 7, noun
+رِّبَوٰا‎, 7, noun
+رُّءْيَا‎ (rruʾyā), 7, noun
+زُبُر‎ (zubur), 7, noun
+زَكَرِيَّا‎ (zakariyyā), 7, proper noun
+سَآئِل‎ (saʾāʾil), 7, noun
+سَابِق‎ (sābiq), 7, noun
+سِتَّة‎ (sitta), 7, noun
+سَفَر‎ (safar), 7, noun
+سَفِيه‎ (safīh), 7, noun
+سَنَة‎ (sana), 7, noun
+شَجَر‎ (šajar), 7, noun
+شِقَاق‎ (šiqāq), 7, noun
+صَفّ‎ (ṣaff), 7, noun
+ضِعْف‎ (ḍiʿf), 7, noun
+ضَعِيف‎ (ḍaʿīf), 7, noun
+عَاكِف‎ (ʿākif), 7, noun
+عُمُر‎ (ʿumur), 7, noun
+غَٰبِرِين‎ (ḡābirīn), 7, noun
+فَحْشَآء‎ (faḥšaʾāʾ), 7, noun
+فُرْقَان‎ (furqān), 7, noun
+قَاعِد‎ (qāʿid), 7, noun
+قِبْلَة‎ (qibla), 7, noun
+قَدْر‎ (qadr), 7, noun
+كَٰرِهُون‎ (kārihūn), 7, noun
+كَأَيِّن‎ (kaʾayyin), 7, noun
+كَبِيرَة‎ (kabīra), 7, noun
+كَى‎ (kā), 7, subordinating conjunction
+لَيْلَة‎ (layla), 7, noun
+مُرِيب‎ (murīb), 7, noun
+مَّطَر‎ (mmaṭar), 7, noun
+مَفْعُول‎ (mafʿūl), 7, noun
+مُقَرَّبُون‎ (muqarrabūn), 7, noun
+مِهَٰد‎ (mihād), 7, noun
+مُّهِين‎ (mmuhīn), 7, adjective
+مُّهِين‎ (mmuhīn), 7, noun
+مُؤْمِن‎ (muʾmin), 7, adjective
+نَاقَة‎ (nāqa), 7, noun
+نَّخِيل‎ (nnaḵīl), 7, noun
+هَاد‎ (hād), 7, noun
+هَدْي‎ (hady), 7, noun
+هُود‎ (hūd), 7, proper noun
+وَاد‎ (wād), 7, noun
+وَارِث‎ (wāriṯ), 7, noun
+وَلِيد‎ (walīd), 7, noun
+يُسْر‎ (yusr), 7, noun
+أَبْكَم‎ (ʾabkam), 6, noun
+أَخْذ‎ (ʾaḵḏ), 6, noun
+إِخْرَاج‎ (ʾiḵrāj), 6, noun
+أَرْبَع‎ (ʾarbaʿ), 6, noun
+إِسْلَٰم‎ (ʾislām), 6, proper noun
+أَعْلَىٰ‎ (ʾaʿlā), 6, noun
+أُمْنِيَّت‎ (ʾumniyyat), 6, noun
+أُنثَيَيْن‎, 6, noun
+أَندَاد‎, 6, noun
+بَٰلِغ‎ (bāliḡ), 6, noun
+بَعْل‎ (baʿl), 6, noun
+بُكْرَة‎ (bukra), 6, time adverb
+بَلَآء‎ (balaʾāʾ), 6, noun
+بُهْتَٰن‎ (buhtān), 6, noun
+تَحِيَّة‎ (taḥiyya), 6, noun
+ثَّقَلَان‎ (ṯṯaqalān), 6, noun
+جَاعِل‎ (jāʿil), 6, noun
+حَدِيد‎ (ḥadīd), 6, noun
+حَلَٰل‎ (ḥalāl), 6, noun
+حُلُم‎ (ḥulum), 6, noun
+حَمِيم‎ (ḥamīm), 6, adjective
+خِلَٰف‎ (ḵilāf), 6, noun
+خَلَٰق‎ (ḵalāq), 6, noun
+خُلْد‎ (ḵuld), 6, noun
+خَمْر‎ (ḵamr), 6, noun
+خِيفَة‎ (ḵīfa), 6, noun
+دَعْوَة‎ (daʿwa), 6, noun
+ذَرَّة‎ (ḏarra), 6, noun
+رَّٰحِمِين‎ (rrāḥimīn), 6, noun
+رَّٰزِقِين‎ (rrāziqīn), 6, noun
+رِسَٰلَٰت‎ (risālāt), 6, noun
+رُشْد‎ (rušd), 6, noun
+سَّبْت‎ (ssabt), 6, noun
+سِّجْن‎ (ssijn), 6, noun
+سُرُر‎ (surur), 6, noun
+سَعَة‎ (saʿa), 6, noun
+سَكِينَة‎ (sakīna), 6, noun
+سِيمَٰ‎ (sīmā), 6, noun
+طَرْف‎ (ṭarf), 6, noun
+ظُلَّة‎ (ẓulla), 6, noun
+عَاد‎ (ʿād), 6, noun
+عِبْرَة‎ (ʿibra), 6, noun
+عَدَٰوَة‎ (ʿadāwa), 6, noun
+عَرَض‎ (ʿaraḍ), 6, noun
+عُقْبَى‎ (ʿuqbā), 6, noun
+غَٰوِين‎ (ḡāwīn), 6, noun
+غَمّ‎ (ḡamm), 6, noun
+غَيْظ‎ (ḡayẓ), 6, noun
+فَاطِر‎ (fāṭir), 6, noun
+فَجْر‎ (fajr), 6, noun
+فَرِح‎ (fariḥ), 6, noun
+فَرِيضَة‎ (farīḍa), 6, noun
+فِضَّة‎ (fiḍḍa), 6, noun
+قَبْر‎ (qabr), 6, noun
+قَرْض‎ (qarḍ), 6, noun
+قَصَص‎ (qaṣaṣ), 6, noun
+قَمِيص‎ (qamīṣ), 6, noun
+قَهَّار‎ (qahhār), 6, adjective
+كَأْس‎ (kaʾs), 6, noun
+كِبَر‎ (kibar), 6, noun
+كُبْرَىٰ‎ (kubrā), 6, adjective
+كَرَّة‎ (karra), 6, noun
+كَفُور‎ (kafūr), 6, adjective
+كَفُور‎ (kafūr), 6, noun
+كَنز‎, 6, noun
+كَهْف‎ (kahf), 6, noun
+لَّعَلّ‎ (llaʿall), 6, accusative particle
+لُؤْلُؤ‎ (luʾluʾ), 6, noun
+مُبَارَك‎ (mubārak), 6, noun
+مُتَكَبِّر‎ (mutakabbir), 6, noun
+مُّدَّكِر‎ (mmuddakir), 6, noun
+مَرَدّ‎ (maradd), 6, noun
+مُسْتَكْبِر‎ (mustakbir), 6, noun
+مُعْتَدِين‎ (muʿtadīn), 6, noun
+مَقْت‎ (maqt), 6, noun
+مَنّ‎ (mann), 6, noun
+مُنتَظِرُون‎, 6, noun
+مُنظَرُون‎, 6, noun
+مُّنِيب‎ (mmunīb), 6, noun
+مُهَاجِر‎ (muhājir), 6, noun
+مَوْج‎ (mawj), 6, noun
+مِّيعَاد‎ (mmīʿād), 6, noun
+نَاصِح‎ (nāṣiḥ), 6, noun
+نِصْف‎ (niṣf), 6, noun
+هَٰمَٰن‎ (hāmān), 6, proper noun
+وَٰحِد‎ (wāḥid), 6, noun
+وَحْد‎ (waḥd), 6, noun
+وَحْى‎, 6, noun
+وَعِيد‎ (waʿīd), 6, noun
+وَقْر‎ (waqr), 6, noun
+يَقِين‎ (yaqīn), 6, noun
+أَبْيَض‎ (ʾabyaḍ), 5, noun
+أَحَقّ‎ (ʾaḥaqq), 5, noun
+أَحَقّ‎ (ʾaḥaqq), 5, adjective
+أَرَآئِك‎ (ʾaraʾāʾik), 5, noun
+أَسَاوِر‎ (ʾasāwir), 5, noun
+أَسْبَاط‎ (ʾasbāṭ), 5, noun
+أَصْنَام‎ (ʾaṣnām), 5, noun
+ٱللَّهُمَّ‎ (l-lahumma), 5, proper noun
+ٱمْرِئ‎ (mriʾ), 5, noun
+أَمْن‎ (ʾamn), 5, noun
+إِن‎ (ʾin), 5, particle of certainty
+أَوَّاب‎ (ʾawwāb), 5, noun
+أَيَّان‎ (ʾayyān), 5, interogative particle
+بَرْق‎ (barq), 5, noun
+بِضَٰعَة‎ (biḍāʿa), 5, noun
+بَعِيد‎ (baʿīd), 5, noun
+بَغْضَآء‎ (baḡḍaʾāʾ), 5, noun
+بَلْدَة‎ (balda), 5, noun
+تَحْرِير‎ (taḥrīr), 5, noun
+تِسْع‎ (tisʿ), 5, noun
+تَفْصِيل‎ (tafṣīl), 5, noun
+تَقْدِير‎ (taqdīr), 5, noun
+تَقَلُّب‎ (taqallub), 5, noun
+ثُّلُث‎ (ṯṯuluṯ), 5, noun
+ثَمَر‎ (ṯamar), 5, noun
+جَٰثِمِين‎ (jāṯimīn), 5, noun
+جَبَّار‎ (jabbār), 5, adjective
+جَبَّار‎ (jabbār), 5, noun
+جَرَم‎ (jaram), 5, noun
+جَهْد‎ (jahd), 5, noun
+حَٰكِمِين‎ (ḥākimīn), 5, noun
+حَبَّة‎ (ḥabba), 5, noun
+حَرِيق‎ (ḥarīq), 5, noun
+حَفِيظ‎ (ḥafīẓ), 5, adjective
+حَقّ‎ (ḥaqq), 5, adjective
+حِلّ‎ (ḥill), 5, noun
+حِمَار‎ (ḥimār), 5, noun
+حَوَارِيُّون‎ (ḥawāriyyūn), 5, noun
+حُوت‎ (ḥūt), 5, noun
+خَٰطِـِٔين‎, 5, noun
+خَالِصَة‎ (ḵāliṣa), 5, noun
+خُرُوج‎ (ḵurūj), 5, noun
+خَصِيم‎ (ḵaṣīm), 5, noun
+خَطْب‎ (ḵaṭb), 5, noun
+خُطُوَٰت‎ (ḵuṭuwāt), 5, noun
+خَلْف‎ (ḵalf), 5, location adverb
+خِنزِير‎, 5, noun
+خَيْل‎ (ḵayl), 5, noun
+دَيْن‎ (dayn), 5, noun
+ذَا‎ (ḏā), 5, demonstrative pronoun
+رَشَد‎ (rašad), 5, noun
+رُعْب‎ (ruʿb), 5, noun
+رَقِيب‎ (raqīb), 5, noun
+زَّيْتُون‎ (zzaytūn), 5, noun
+سَاجِد‎ (sājid), 5, adjective
+سَلَم‎ (salam), 5, noun
+سَوْءَٰت‎ (sawʾāt), 5, noun
+شَّٰرِبِين‎ (ššāribīn), 5, noun
+شَاعِر‎ (šāʿir), 5, noun
+شِرْك‎ (širk), 5, noun
+شَطْر‎ (šaṭr), 5, location adverb
+صَٰغِرُون‎ (ṣāḡirūn), 5, noun
+صَٰلِح‎ (ṣāliḥ), 5, adjective
+صَدَقَة‎ (ṣadaqa), 5, noun
+صِدِّيق‎ (ṣiddīq), 5, noun
+صَيْد‎ (ṣayd), 5, noun
+ضَيْف‎ (ḍayf), 5, noun
+طَٰٓئِر‎, 5, noun
+طَرَف‎ (ṭaraf), 5, noun
+طَرِيقَة‎ (ṭarīqa), 5, noun
+ظَلَّٰم‎ (ẓallām), 5, noun
+عَدَد‎ (ʿadad), 5, noun
+عَزْم‎ (ʿazm), 5, noun
+عُسْر‎ (ʿusr), 5, noun
+عَشْر‎ (ʿašr), 5, noun
+عَطَآء‎ (ʿaṭaʾāʾ), 5, noun
+عَفُوّ‎ (ʿafuww), 5, noun
+عَلَقَة‎ (ʿalaqa), 5, noun
+غَد‎ (ḡad), 5, noun
+غُدُوّ‎ (ḡuduww), 5, noun
+غُرْفَة‎ (ḡurfa), 5, noun
+غَفْلَة‎ (ḡafla), 5, noun
+فَوْج‎ (fawj), 5, noun
+قَآئِل‎ (qaʾāʾil), 5, noun
+قَارِعَة‎ (qāriʿa), 5, noun
+قَيِّم‎ (qayyim), 5, adjective
+كَآفَّة‎ (kaʾāffa), 5, noun
+كَاتِب‎ (kātib), 5, noun
+كَرْه‎ (karh), 5, noun
+كَلْب‎ (kalb), 5, noun
+كَوْكَب‎ (kawkab), 5, noun
+لَوْح‎ (lawḥ), 5, noun
+مُبْطِلُون‎ (mubṭilūn), 5, noun
+مُتْرَفِين‎ (mutrafīn), 5, noun
+مُتَشَٰبِه‎ (mutašābih), 5, noun
+مَّحِيص‎ (mmaḥīṣ), 5, noun
+مُخْرَج‎ (muḵraj), 5, noun
+مَرْضَات‎ (marḍāt), 5, noun
+مِرْيَة‎ (mirya), 5, noun
+مُّسَمًّى‎ (mmusamman), 5, adjective
+مَسْـُٔول‎, 5, noun
+مُصْبِحِين‎ (muṣbiḥīn), 5, noun
+مُصْلِح‎ (muṣliḥ), 5, noun
+مُّطَهَّرَة‎ (mmuṭahhara), 5, adjective
+مَع‎ (maʿ), 5, preposition
+مَّعْدُودَة‎ (mmaʿdūda), 5, adjective
+مَكَانَت‎ (makānat), 5, noun
+مَلُوم‎ (malūm), 5, noun
+مُنَٰفِقَٰت‎ (munāfiqāt), 5, noun
+مُنذَرِين‎, 5, noun
+مُنزِلِين‎, 5, noun
+مُّنِير‎ (mmunīr), 5, noun
+مَهْد‎ (mahd), 5, noun
+مُهْلِك‎ (muhlik), 5, noun
+مُّوقِنِين‎ (mmūqinīn), 5, noun
+مَيْتَة‎ (mayta), 5, noun
+نَٰدِمِين‎ (nādimīn), 5, noun
+نَٰظِرِين‎ (nāẓirīn), 5, noun
+نُّبُوَّة‎ (nnubuwwa), 5, noun
+نُشُور‎ (nušūr), 5, noun
+نُفُور‎ (nufūr), 5, noun
+نِكَاح‎ (nikāḥ), 5, noun
+وَازِرَة‎ (wāzira), 5, noun
+وَاقِع‎ (wāqiʿ), 5, noun
+وُسْع‎ (wusʿ), 5, noun
+يَحْيَىٰ‎ (yaḥyā), 5, proper noun
+يَسِير‎ (yasīr), 5, noun
+أَحْبَار‎ (ʾaḥbār), 4, noun
+أَخْسَرِين‎ (ʾaḵsarīn), 4, noun
+أَرْحَم‎ (ʾarḥam), 4, noun
+أَرْذَل‎ (ʾarḏal), 4, noun
+أَزْكَىٰ‎ (ʾazkā), 4, noun
+إِسْتَبْرَق‎ (ʾistabraq), 4, noun
+أَسْلِحَت‎ (ʾasliḥat), 4, noun
+أَسِير‎ (ʾasīr), 4, noun
+أَصِيل‎ (ʾaṣīl), 4, time adverb
+أَطْهَر‎ (ʾaṭhar), 4, noun
+أَقْوَم‎ (ʾaqwam), 4, noun
+أَكْل‎ (ʾakl), 4, noun
+أَكِنَّة‎ (ʾakinna), 4, noun
+أَكْوَاب‎ (ʾakwāb), 4, noun
+ٱلَّٰٓـِٔى‎, 4, relative pronoun
+أَمَٰنَٰت‎ (ʾamānāt), 4, noun
+أَمَد‎ (ʾamad), 4, noun
+أَمْس‎ (ʾams), 4, noun
+أُمِّىّ‎, 4, noun
+ٱنتِقَام‎, 4, noun
+أَيْكَة‎ (ʾayka), 4, noun
+أَيْن‎ (ʾayn), 4, location adverb
+أَيُّوب‎ (ʾayyūb), 4, proper noun
+بَأْسَآء‎ (baʾsaʾāʾ), 4, noun
+(bāsiṭ), 4, Noun
+بَال‎ (bāl), 4, Noun
+بُرُوج‎ (burūj), 4, Noun
+بَعْث‎ (baʿṯ), 4, Noun
+بَقَرَة‎ (baqara), 4, Noun
+بَل‎ (bal), 4, Inceptive particle
+تَقِيّ‎ (taqiyy), 4, Noun
+ثُبُور‎ (ṯubūr), 4, Noun
+ثَقِيل‎ (ṯaqīl), 4, Adjective
+ثَمّ‎ (ṯamm), 4, Location adverb
+جِهَاد‎ (jihād), 4, Noun
+جَهَٰلَة‎ (jahāla), 4, Noun
+جَوَاب‎ (jawāb), 4, Noun
+جُوع‎ (jūʿ), 4, Noun
+حَاصِب‎ (ḥāṣib), 4, Noun
+حِجْر‎ (ḥijr), 4, Noun
+حَرْب‎ (ḥarb), 4, Noun
+حَصِيد‎ (ḥaṣīd), 4, Noun
+حَلِيم‎ (ḥalīm), 4, Noun
+حِلْيَة‎ (ḥilya), 4, Noun
+حُور‎ (ḥūr), 4, Noun
+حِين‎ (ḥīn), 4, Time adverb
+خَاوِيَة‎ (ḵāwiya), 4, Noun
+خَبِيثَة‎ (ḵabīṯa), 4, Noun
+خَزَنَت‎ (ḵazanat), 4, Noun
+خُضْر‎ (ḵuḍr), 4, Noun
+خَلِيل‎ (ḵalīl), 4, Noun
+دَأْب‎ (daʾb), 4, Noun
+دَابِر‎ (dābir), 4, Noun
+دَٰخِرُون‎ (dāḵirūn), 4, Noun
+دَاعِى‎, 4, Noun
+دَعْوَىٰ‎ (daʿwā), 4, Noun
+ذُرِّيَّٰت‎ (ḏurriyyāt), 4, Noun
+رَٰجِعُون‎ (rājiʿūn), 4, Noun
+رَّجْفَة‎ (rrajfa), 4, Noun
+رَجِيم‎ (rajīm), 4, Adjective
+رَّحِيم‎ (rraḥīm), 4, Noun
+رِسَالَة‎ (risāla), 4, Noun
+زُخْرُف‎ (zuḵruf), 4, Noun
+زُلْفَىٰٓ‎, 4, Noun
+زُّور‎ (zzūr), 4, Noun
+سَاق‎ (sāq), 4, Noun
+سَبْعَة‎ (sabʿa), 4, Noun
+سُّجُود‎ (ssujūd), 4, Noun
+سَدّ‎ (sadd), 4, Noun
+سِرَاج‎ (sirāj), 4, Noun
+سَفِينَة‎ (safīna), 4, Noun
+سَقَر‎ (saqar), 4, Proper noun
+سَقْف‎ (saqf), 4, Noun
+سَمَّٰعُون‎ (sammāʿūn), 4, Noun
+سُّوق‎ (ssūq), 4, Noun
+شَأْن‎ (šaʾn), 4, Noun
+شَعَٰٓئِر‎, 4, Noun
+شِفَآء‎ (šifaʾāʾ), 4, Noun
+شِهَاب‎ (šihāb), 4, Noun
+صَٰحِبَة‎ (ṣāḥiba), 4, Noun
+صَبَّار‎ (ṣabbār), 4, Adjective
+صُبْح‎ (ṣubḥ), 4, Noun
+صَرْح‎ (ṣarḥ), 4, Noun
+صَعِيد‎ (ṣaʿīd), 4, Noun
+صَلْصَٰل‎ (ṣalṣāl), 4, Noun
+ضُحًى‎ (ḍuḥan), 4, Noun
+ضِعْف‎ (ḍiʿf), 4, Adjective
+ضَعْف‎ (ḍaʿf), 4, Noun
+طَآئِف‎ (ṭaʾāʾif), 4, Noun
+طَٰغِين‎ (ṭāḡīn), 4, Noun
+طَرِيق‎ (ṭarīq), 4, Noun
+طِفْل‎ (ṭifl), 4, Noun
+طَلْع‎ (ṭalʿ), 4, Noun
+طَمَع‎ (ṭamaʿ), 4, Noun
+طَوْع‎ (ṭawʿ), 4, Noun
+ظَالِمَة‎ (ẓālima), 4, Noun
+ظَهِير‎ (ẓahīr), 4, Noun
+عَالِي‎ (ʿālī), 4, Noun
+عَجُوز‎ (ʿajūz), 4, Noun
+عَرْض‎ (ʿarḍ), 4, Noun
+عَشَر‎ (ʿašar), 4, Noun
+عُصْبَة‎ (ʿuṣba), 4, Noun
+عُقْدَة‎ (ʿuqda), 4, Noun
+عَلَانِيَة‎ (ʿalāniya), 4, Noun
+عُلُوّ‎ (ʿuluww), 4, Noun
+عَوْرَة‎ (ʿawra), 4, Noun
+غَمَٰم‎ (ḡamām), 4, Noun
+غَنِىّ‎, 4, Adjective
+غَيّ‎ (ḡayy), 4, Noun
+غُيُوب‎ (ḡuyūb), 4, Noun
+فَآئِزُون‎ (faʾāʾizūn), 4, Noun
+فَخُور‎ (faḵūr), 4, Adjective
+فِرَار‎ (firār), 4, Noun
+فُسُوق‎ (fusūq), 4, Noun
+قَآئِمَة‎ (qaʾāʾima), 4, Noun
+قَٰرُون‎ (qārūn), 4, Proper noun
+قُدُس‎ (qudus), 4, Noun
+قِصَاص‎ (qiṣāṣ), 4, Noun
+قَصْر‎ (qaṣr), 4, Noun
+قُعُود‎ (quʿūd), 4, Noun
+قَلَم‎ (qalam), 4, Noun
+قِيل‎ (qīl), 4, Noun
+كَرْب‎ (karb), 4, Noun
+كِسَف‎ (kisaf), 4, Noun
+كَفَّار‎ (kaffār), 4, Adjective
+كَفَّٰرَة‎ (kaffāra), 4, Noun
+كِفْل‎ (kifl), 4, Noun
+كَلَٰم‎ (kalām), 4, Noun
+كَلِم‎ (kalim), 4, Noun
+لَطِيف‎ (laṭīf), 4, Adjective
+مُبْصِر‎ (mubṣir), 4, Noun
+مُبْلِسُون‎ (mublisūn), 4, Noun
+مُّتَقَٰبِلِين‎ (mmutaqābilīn), 4, Noun
+مُتَوَكِّلُون‎ (mutawakkilūn), 4, Noun
+مُجَٰهِدِين‎ (mujāhidīn), 4, Noun
+مَّجِيد‎ (mmajīd), 4, Adjective
+مِحْرَاب‎ (miḥrāb), 4, Noun
+مُحَرَّم‎ (muḥarram), 4, Noun
+مَحْرُوم‎ (maḥrūm), 4, Noun
+مُحَمَّد‎ (muḥammad), 4, Proper noun
+مُخَلَّفُون‎ (muḵallafūn), 4, Noun
+مَدِينَة‎ (madīna), 4, Proper noun
+مُرْسِل‎ (mursil), 4, Noun
+مَرْء‎ (marʾ), 4, Noun
+مُّسْتَضْعَفُون‎ (mmustaḍʿafūn), 4, Noun
+مَّسْحُور‎ (mmasḥūr), 4, Noun
+مِصْبَاح‎ (miṣbāḥ), 4, Noun
+مُصَدِّق‎ (muṣaddiq), 4, Adjective
+مِصْر‎ (miṣr), 4, Proper noun
+مُعَذِّب‎ (muʿaḏḏib), 4, Noun
+مُعَذَّبِين‎ (muʿaḏḏabīn), 4, Noun
+مَّعْرُوف‎ (mmaʿrūf), 4, Adjective
+مَغَانِم‎ (maḡānim), 4, Noun
+مُّغْرَقُون‎ (mmuḡraqūn), 4, Noun
+مُّقْتَدِر‎ (mmuqtadir), 4, Noun
+مَقْعَد‎ (maqʿad), 4, Noun
+مُّكْرَمُون‎ (mmukramūn), 4, Noun
+مُّلَٰقُوا‎ (mmulāqū), 4, Noun
+مَلَكُوت‎ (malakūt), 4, Noun
+مُمْتَرِين‎ (mumtarīn), 4, Noun
+مَمْنُون‎ (mamnūn), 4, Noun
+مَنَام‎ (manām), 4, Noun
+مُّنتَصِر‎, 4, Noun
+مَنسَك‎, 4, Noun
+مُّؤْمِنَٰت‎ (mmuʾmināt), 4, Adjective
+مُّؤْمِنَة‎ (mmuʾmina), 4, Adjective
+مَّيِّت‎ (mmayyit), 4, Adjective
+مَّيْت‎ (mmayt), 4, Adjective
+نَصَب‎ (naṣab), 4, Noun
+نَعْجَة‎ (naʿja), 4, Noun
+نَعَم‎ (naʿam), 4, Answer particle
+نَكِير‎ (nakīr), 4, Noun
+هُنَا‎ (hunā), 4, Demonstrative pronoun
+وَبَال‎ (wabāl), 4, Noun
+وَقُود‎ (waqūd), 4, Noun
+يُونُس‎ (yūnus), 4, Proper noun
+ءَامِن‎ (ʾāmin), 4, Noun
+آثِم‎ (ʾāṯim), 3, Noun
+آخِذ‎ (ʾāḵiḏ), 3, Noun
+أَبْيَض‎ (ʾabyaḍ), 3, Adjective
+أُجَاج‎ (ʾujāj), 3, Noun
+أَجْدَاث‎ (ʾajdāṯ), 3, Noun
+أَخْبَار‎ (ʾaḵbār), 3, Noun
+إِذَا‎ (ʾiḏā), 3, Surprise particle
+أَذْقَان‎ (ʾaḏqān), 3, Noun
+أَسْفَل‎ (ʾasfal), 3, Noun
+أُسْوَة‎ (ʾuswa), 3, Noun
+أَشَدّ‎ (ʾašadd), 3, Adjective
+أَشْقَى‎ (ʾašqā), 3, Noun
+إِصْر‎ (ʾiṣr), 3, Noun
+أَصْل‎ (ʾaṣl), 3, Noun
+أَصِيل‎ (ʾaṣīl), 3, Noun
+إِطْعَٰم‎ (ʾiṭʿām), 3, Noun
+أَعَزّ‎ (ʾaʿazz), 3, Noun
+أَعْلَىٰ‎ (ʾaʿlā), 3, Adjective
+أَعْمَىٰ‎ (ʾaʿmā), 3, Adjective
+أُفّ‎ (ʾuff), 3, Noun
+أُفُق‎ (ʾufuq), 3, Noun
+إِلَّا‎ (ʾillā), 3, Particle of certainty
+إِلْيَاس‎ (ʾilyās), 3, Proper noun
+أَوْتَاد‎ (ʾawtād), 3, Noun
+أَوْثَٰن‎ (ʾawṯān), 3, Noun
+إِيتَاءٌ‎ (ʾītāʾun), 3, Noun
+أَيْمَن‎ (ʾayman), 3, Adjective
+أَيْن‎ (ʾayn), 3, Conditional particle
+بَاطِن‎ (bāṭin), 3, Noun
+بَاغ‎ (bāḡ), 3, Noun
+بَرْزَخ‎ (barzaḵ), 3, Noun
+بَرَكَٰت‎ (barakāt), 3, Noun
+بُشْر‎ (bušr), 3, Noun
+بَطْش‎ (baṭš), 3, Noun
+بَقَر‎ (baqar), 3, Noun
+بَقِيَّت‎ (baqiyyat), 3, Noun
+بَهِيمَة‎ (bahīma), 3, Noun
+بَيَان‎ (bayān), 3, Noun
+تَابِع‎ (tābiʿ), 3, Noun
+تَارِك‎ (tārik), 3, Noun
+تَحْت‎ (taḥt), 3, Location adverb
+تَحْوِيل‎ (taḥwīl), 3, Noun
+تَسْلِيم‎ (taslīm), 3, Noun
+تَضَرُّع‎ (taḍarruʿ), 3, Noun
+ثُلَّة‎ (ṯulla), 3, Noun
+ثَمَٰنِيَة‎ (ṯamāniya), 3, Noun
+جَار‎ (jār), 3, Noun
